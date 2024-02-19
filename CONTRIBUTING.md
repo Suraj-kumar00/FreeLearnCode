@@ -156,7 +156,7 @@ We follow a standardized commit message format using Commitlint to ensure consis
 
 ## Important point to keep in mind before starting ✅
 
-- If anything is missing or if you find something that needs to be enhanced/fixed/modified in the project, please feel free to [create an issue.](https://github.com/singodiyashubham87/ScrapeIt/issues/new/choose)
+- If anything is missing or if you find something that needs to be enhanced/fixed/modified in the project, please feel free to [create an issue.](https://github.com/Suraj-kumar00/FreeLearnCode/issues/new)
 
 - Ask to get the issue assigned to you before working on the issue & making a PR.
 - Don't create a PR until the issue is not assigned to you.
